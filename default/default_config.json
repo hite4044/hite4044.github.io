@@ -11,7 +11,7 @@
   },
   "background": {
     "image": "background.png",
-    "blur": 10,
+    "blur": 4,
     "overlay_opacity": 0.6,
     "overlay_color": "#f3f4f6",
     "dark_overlay_color": "#121212"
